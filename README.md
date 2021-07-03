@@ -1,5 +1,7 @@
 # cutout_text_effect
-<ima src='ex.png'>
+
+<ima src='https://raw.githubusercontent.com/lkrjangid1/cutout_text_effect/master/ex.png'>
+
 Make cutout effect of your text in an easy way.
 
 ## Usage
